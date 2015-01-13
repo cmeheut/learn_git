@@ -1,6 +1,6 @@
 # learn_git
 
-Justcreated to learn how using git & github
+J'utilise Openclassroom pour ce genre d'apprentissage
 
 Je passe à la phase ou je vais commiter de chez moi
 
